@@ -1,5 +1,6 @@
 # Customer Book
 
+
 ## Technologies
 - Vue
 - Axios
@@ -14,6 +15,7 @@ To work with this project, you need to have the following setup on your local ma
 
 1. [NodeJS](https://nodejs.org)
 2. [Git](https://git-scm.com/downloads)
+
 
 ## Project setup
 ```
