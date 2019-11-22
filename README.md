@@ -1,4 +1,4 @@
-# customer-book
+# Customer Book
 
 ## Technologies
 - Vue
