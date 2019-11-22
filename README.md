@@ -1,5 +1,22 @@
 # Customer Book
 
+
+## Technologies
+- Vue
+- Axios
+- ESLint
+- Babel
+- Bootstrap
+
+
+## Prerequisites
+
+To work with this project, you need to have the following setup on your local machine
+
+1. [NodeJS](https://nodejs.org)
+2. [Git](https://git-scm.com/downloads)
+
+
 ## Project setup
 ```
 npm install
